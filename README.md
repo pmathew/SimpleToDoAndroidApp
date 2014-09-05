@@ -15,7 +15,6 @@ Completed user stories:
  * [x] Required: List todo Items
  
 Notes:
-Had weird issues on setting up Android Studio.Reinstall fixed the issue.
 
 Walkthrough of all user stories:
-
+[Video](SimpleTodoRecording1.gif)
